@@ -1,12 +1,13 @@
 #include "main.h"
-	
+
 /**
  * main - check the code
  *
  * Return: Always 0.
  */
-int main(void)		
-{	
+
+int main(void)
+{
     int r;
 
     print_last_digit(98);
